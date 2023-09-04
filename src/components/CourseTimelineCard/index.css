@@ -1,0 +1,12 @@
+.course-heading {
+  color: #171f46;
+  font-size: 15px;
+}
+.list-item {
+  background-color: #e6edf7;
+  margin: 2px;
+  padding: 4px 2px 4px 2px;
+  border-radius: 5px;
+  color: #1e293b;
+  font-weight: 700;
+}
